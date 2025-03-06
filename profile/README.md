@@ -11,9 +11,9 @@ Welcome to the Cookie Clicker Wiki, your go-to guide for everything you need to 
 
 ### 🍪 Key Features of Cookie Clicker:
 
-🖱 Simple but Addictive – Click to generate cookies and unlock powerful upgrades.
+- Simple but Addictive – Click to generate cookies and unlock powerful upgrades.
 
-🔄 Endless Progression – Keep baking cookies forever!
+- Endless Progression – Keep baking cookies forever!
 
 ⭐ Golden Cookies & Special Events – Boost your production with time-limited bonuses.
 
