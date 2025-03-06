@@ -15,11 +15,11 @@ Welcome to the Cookie Clicker Wiki, your go-to guide for everything you need to 
 
 - Endless Progression – Keep baking cookies forever!
 
-⭐ Golden Cookies & Special Events – Boost your production with time-limited bonuses.
+- Golden Cookies & Special Events – Boost your production with time-limited bonuses.
 
-🔥 Prestige System – Reset your progress for permanent bonuses.
+- Prestige System – Reset your progress for permanent bonuses.
 
-🌎 Play Anywhere – Browser-based, with mobile and Steam versions available!
+- Play Anywhere – Browser-based, with mobile and Steam versions available!
 
 ---
 ## 🏗️ Gameplay Elements
